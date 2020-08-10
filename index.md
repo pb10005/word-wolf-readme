@@ -1,5 +1,5 @@
-# ワードウルフの遊び方
-https://wolf.utakata-umigame.com/
+
+[https://wolf.utakata-umigame.com](https://wolf.utakata-umigame.com/)の遊び方紹介ページ
 ## 1. ゲームを始める
 スタート画面を下にスクロールします。
 ![start](https://raw.githubusercontent.com/pb10005/word-wolf-readme/master/img/start.png)
@@ -22,12 +22,14 @@ https://wolf.utakata-umigame.com/
 先ほど設定したゲームマスターツール起動文字列を入力して、「入室」をクリックします。
 ![master_tool](https://raw.githubusercontent.com/pb10005/word-wolf-readme/master/img/master_tool.png)
 
-### 2.3. ゲームマスター
-ゲームマスターの仕事の流れは以下の通りです。
+### 2.3. ゲームマスターとして進行を行う
+ゲームの進行は以下の通りです。
 1. 参加者が集まったらワードを配ります。この時点で狼が1人決定し、それ以降に入室した人はゲームに参加できなくなります。
+![dispatch](https://raw.githubusercontent.com/pb10005/word-wolf-readme/master/img/dispatch.png)
 2. チャットを使って進行を行います。細かいルール設定がある場合はここで説明します。
 3. 一定時間が経過したら、チャットを締め切って狼当てを行います。「GMのみに送信」機能を使うと便利です。
 4. 「結果発表」をクリックすると、各プレイヤーの正体(狼/人間)と、狼側と人間側のワードが公開されます。
+![end](https://raw.githubusercontent.com/pb10005/word-wolf-readme/master/img/end.png)
 
 ## 3. プレイヤーとして遊ぶ
 ### 3.1. 部屋を探す
@@ -44,4 +46,7 @@ https://wolf.utakata-umigame.com/
 ### 4.1. チャット
 ゲームマスターや他のプレイヤーに向けてメッセージを送ることができます。  
 ※「GMのみに送信」をチェックするとゲームマスターにしか見えないメッセージを送ることができます。  
-![chat](https://raw.githubusercontent.com/pb10005/word-wolf-readme/master/img/chat.png)
+![chat](https://raw.githubusercontent.com/pb10005/word-wolf-readme/master/img/chat.png
+### 4.2 結果の確認
+「結果を見る」をクリックすると、各プレイヤーの正体とワードを表形式で見ることができます。
+![result](https://raw.githubusercontent.com/pb10005/word-wolf-readme/master/img/result.png)
