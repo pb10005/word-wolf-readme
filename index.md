@@ -46,7 +46,7 @@
 ### 4.1. チャット
 ゲームマスターや他のプレイヤーに向けてメッセージを送ることができます。  
 ※「GMのみに送信」をチェックするとゲームマスターにしか見えないメッセージを送ることができます。  
-![chat](https://raw.githubusercontent.com/pb10005/word-wolf-readme/master/img/chat.png
+![chat](https://raw.githubusercontent.com/pb10005/word-wolf-readme/master/img/chat.png)
 ### 4.2 結果の確認
 「結果を見る」をクリックすると、各プレイヤーの正体とワードを表形式で見ることができます。
 ![result](https://raw.githubusercontent.com/pb10005/word-wolf-readme/master/img/result.png)
